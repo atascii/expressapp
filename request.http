@@ -1,0 +1,9 @@
+http://localhost:3977/
+
+### Post 
+POST http://localhost:3977/welcome
+Content-Type: application/json
+
+{
+    "username": "martindiego"
+}
